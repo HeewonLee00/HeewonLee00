@@ -42,8 +42,14 @@
     👀 Currently in an internship position on Infra Development Team
     <br>
     🎓 Graduating on August 2023
+    <br>
+  </p>
+  <p>
   </p>
 </div>
+
+<br>
+<br>
 
 ![HeewonLee00's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeewonLee00&show_icons=true&theme=radical)
 
